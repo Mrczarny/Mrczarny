@@ -39,7 +39,7 @@ public class Mrczarny : Developer
 <!-- list --> 
 ### You can reach me on any of the platforms below:
 -  <a style="vertical-align: middle" href="mailto:adamski.jj@gmail.com"><img style="padding: 5px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
--   <a style="vertical-align: middle" href="https:/www.linkedin.com/in/jan-jakub-adamski-71b114245"><img style="padding: 5px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+-   <a style="vertical-align: middle" href="https://www.linkedin.com/in/jan-jakub-adamski-71b114245"><img style="padding: 5px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 <h2 style="padding-left: 20px; margin-top: 35px; " align="left"> 📊 GitHub Stats </h2>
