@@ -1,5 +1,5 @@
 
-<h1 style="padding-left: 10px;">Hi 👋, I'm Mrczarny</h1>
+<h1 style="padding-left: 10px;">Hi 👋, I'm Jan Adamski</h1>
 
 ```csharp
 public class Mrczarny : Developer
